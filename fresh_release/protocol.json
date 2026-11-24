@@ -1,0 +1,15 @@
+{
+  "calibration_seed": 2026120700,
+  "n_calibration": 3000,
+  "confirmation_seed": 2026125700,
+  "n_confirmation": 1000,
+  "alpha": 0.01,
+  "delta": 0.05,
+  "timing_n": 400,
+  "timing_repeats": 3,
+  "parameter_source": "cascade/frozen_router.json",
+  "rule": "All scales, model fits, router r=0.5 and composite score fixed before these cohorts. Only NP order-statistic thresholds use the fresh calibration labels. No choice uses final confirmation outcomes.",
+  "parameter_sha256": "401388325f2eee578f2996dd0f1d8ff24fe79367aa038003cee1fd917e3ef089",
+  "score_code_sha256": "e41cd5756758a71cb06f1fc15211ecc889024df44c67717813b38b2deee35968",
+  "models_sha256": "4b980df49000346707ca255d3360c8d08212606ed5fd51fe80c968f0006a7313"
+}

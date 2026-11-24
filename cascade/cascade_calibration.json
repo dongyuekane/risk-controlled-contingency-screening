@@ -1,0 +1,8 @@
+{
+  "threshold": -0.22190453395821835,
+  "order": 6,
+  "n_unsafe": 1179,
+  "alpha": 0.01,
+  "delta": 0.05,
+  "definition": "s=min(z_event,z_feedback) when event_probability<=router; s=z_event otherwise. Exactly one NP order-statistic calibration is applied to s."
+}

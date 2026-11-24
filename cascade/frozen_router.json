@@ -1,0 +1,8 @@
+{
+  "event_center": -3.1767998142813414,
+  "event_scale": 2.946984442460105,
+  "physics_center": 0.0009408478205842785,
+  "physics_scale": 0.02141254575963609,
+  "router": 0.5,
+  "scope": "Training-only proxy cost selects routing. Actual calibration and held-out timing are separate."
+}

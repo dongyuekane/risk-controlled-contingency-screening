@@ -1,0 +1,21 @@
+{
+  "confirm_seed": 2026112700,
+  "n_confirm": 1000,
+  "folds": 3,
+  "router_candidates": [
+    0.2,
+    0.5,
+    0.8,
+    1.0
+  ],
+  "scale_quantiles": [
+    0.01,
+    0.1
+  ],
+  "cost_training_cases": 120,
+  "alpha": 0.01,
+  "delta": 0.05,
+  "timing_n": 400,
+  "timing_repeats": 5,
+  "timing_seed": 2026112711
+}

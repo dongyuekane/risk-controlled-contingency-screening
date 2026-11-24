@@ -1,0 +1,12 @@
+{
+  "fresh_confirmation_n": 1000,
+  "unsafe": 374,
+  "support": 844,
+  "status": {
+    "converged": 1000
+  },
+  "independent_rechecks": 5,
+  "maximum_monolithic_margin_error": 3.970320405777272e-08,
+  "timing_scope": "First 400 new independent secure-base samples, three repetitions, randomized method order, single thread, initialized cached matrices; model fit and initial cache construction excluded",
+  "risk_scope": "Single uniformly sampled connected event per independently sampled secure-base state; unsafe-conditioned population risk, not each outage order or whole scan"
+}

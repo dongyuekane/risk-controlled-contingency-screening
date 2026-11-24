@@ -1,0 +1,21 @@
+{
+  "calibration_n": 3000,
+  "calibration_unsafe": 1140,
+  "confirmation_n": 1000,
+  "confirmation_unsafe": 402,
+  "supported": 873,
+  "direct_bypass": 237,
+  "feedback_calls": 312,
+  "feedback_bypass": 270,
+  "high_score_to_ac": 324,
+  "outside_support": 127,
+  "status": {
+    "converged": 1000
+  },
+  "score_parameters_sha256": "401388325f2eee578f2996dd0f1d8ff24fe79367aa038003cee1fd917e3ef089",
+  "independent_false_safe_checks": 12,
+  "maximum_monolithic_margin_error": 4.587397350874767e-08,
+  "time_saving_vs_full": 0.43128366970024823,
+  "time_saving_vs_electrical_hgb": 0.21130558611834938,
+  "time_saving_vs_feedback": 0.19967792958317543
+}

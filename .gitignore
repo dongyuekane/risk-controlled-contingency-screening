@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+.DS_Store
+/fresh_release/frozen_models.pkl
+/original_source/package/SCI_Three_Studies/data/public/case*.m

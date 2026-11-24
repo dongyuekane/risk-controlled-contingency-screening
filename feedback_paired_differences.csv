@@ -1,0 +1,5 @@
+method,comparator,bypass_delta,ci_low,ci_high
+Feedback_NP,One_pass,0.414,0.383,0.4450249999999996
+Feedback_NP,Physics_HGB,0.072,0.056,0.088
+Feedback_NP,Logistic,0.215,0.19,0.24
+Feedback_NP,Event_HGB,0.318,0.289,0.347

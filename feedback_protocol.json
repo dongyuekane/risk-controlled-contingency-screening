@@ -1,0 +1,11 @@
+{
+  "alpha": 0.01,
+  "delta": 0.05,
+  "confirmation_seed": 2026110700,
+  "n_confirmation": 1000,
+  "gate_tolerance": 1e-07,
+  "timing_n": 400,
+  "timing_repeats": 3,
+  "timing_seed": 20261107,
+  "hypothesis": "Reuse the first-pass main-grid boundary voltages to reject candidate bypasses whose nonlinear radial feeder sweep violates any distribution constraint; preserve the original NP threshold."
+}
